@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.alertbox{
+    width:1200px;
+    margin-left:100px;
+}
+.btnone{
+    margin-left: 100px;
+}
+.card1{
+  height: 100px;
+  width: 350px;
+  /* flex-direction: column; */
+  justify-content: space-evenly;
+  align-items: center;
+  /* border: 1px solid black; */
+  /* box-shadow: ; */
+}
+
+.footer{
+    align-items: center;
+    margin-top: 255px;
+}
